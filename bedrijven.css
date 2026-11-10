@@ -8,15 +8,13 @@ body {
     margin: 0;
     background-color: white;
     color: black;
+}
 
-}
+
 .middenbox {
-    max-width: 1200px;
+    max-width: 1140px;
+    width: 100%;
     margin: 0 auto;
-    text-align: center;
-}
-nav {
-    background-color: whitesmoke;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,11 +23,32 @@ nav {
     font-family: "Montserrat", sans-serif;
 
 }
+
+.middenbox h2 {
+    font-size: 24px;
+    white-space: nowrap;
+    width: 120px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
 .knop {
-    padding: 15px;
-    color: black;
-    background-color: transparent;
+    width: 120px;
+    padding: 12px;
+    color: white;
+    background-color: rgb(73, 1, 73);
+    border-radius: 40px;
     border: none;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.knopv3{
+      width: 120px;
 }
