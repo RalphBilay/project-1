@@ -16,6 +16,7 @@ body {
     text-align: center;
 }
 nav {
+    background-color: whitesmoke;
     display: flex;
     justify-content: space-between;
     align-items: center;

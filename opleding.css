@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+    color: black;
+
+}
+.middenbox {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+nav {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80px;
+    max-height: 120px;
+    font-family: "Montserrat", sans-serif;
+
+}
+.knop {
+    padding: 15px;
+    color: black;
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+    font-weight: 700;
+}
