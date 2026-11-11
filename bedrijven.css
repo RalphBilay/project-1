@@ -57,6 +57,11 @@ body {
 .knopv3{
       width: 120px;
 }
+.title {
+    font-size: 50px;
+    margin-top: 80px;
+    text-align: center;
+}
 
 main {
     margin: 10px;
