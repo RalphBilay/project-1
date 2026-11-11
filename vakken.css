@@ -112,10 +112,9 @@ h1{
     padding: 20px;
     border: 2px solid rgb(0, 0, 0);
     text-decoration: none;
+    margin-bottom: 50px;
 }
-.title-text{
 
-}
 .text{
     color: black;
     display: flex;
